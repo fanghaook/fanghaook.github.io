@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Learning Feature Semantic Matching for Spatio-Temporal Video Grounding"
+    authors: Tong Zhang, <strong>Hao Fang</strong>, Hao Zhang, Jialin Gao, Xiankai Lu, Xiushan Nie, Yilong Yin
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10504631
+    code: https://github.com/tongzhang111/acm-mm
+    image: ./assets/img/FSM.png
+  
+  - title: "Learning Better Video Query with SAM for Video Instance Segmentation"
+    authors: <strong>Hao Fang</strong>, Tong Zhang, Xiaofei Zhou, Xinxin Zhang
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2024.
+    pdf: https://doi.org/10.1109/tcsvt.2024.3361076
+    code: https://github.com/fanghaook/LBVQ
+    image: ./assets/img/LBVQ.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Gradformer: A Framework for Multi-Aspect Multi-Granularity Pronunciation Assessment"
+    authors: Haochen Pei, <strong>Hao Fang</strong>, Xin Luo, Xinshun Xu
+    conference_short: TASLP
+    conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing <strong>(TASLP)</strong>, 2023.
+    pdf: https://doi.org/10.1109/taslp.2023.3335807
+    image: ./assets/img/Gradformer.png
+
+  - title: "Dense Attention-Guided Cascaded Network for Salient Object Detection of Strip Steel Surface Defects"
+    authors: Xiaofei Zhou, <strong>Hao Fang</strong>, Zhi Liu, Bolun Zheng, Yaoqi Sun, Jiyong Zhang, Chenggang Yan
+    conference_short: TIM
+    conference: IEEE Transactions on Instrumentation and Measurement <strong>(TIM)</strong>, 2022.
+    pdf: https://doi.org/10.1109/tim.2021.3132082
+    code: https://github.com/zxforchid/DACNet
+    image: ./assets/img/DACNet.png
