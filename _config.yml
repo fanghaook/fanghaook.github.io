@@ -2,7 +2,7 @@
 title: Hao Fang
 position: Ph.D. Student
 affiliation: Shandong University
-email: fanghaook (at) mail.sdu.edu.cn fanghaook@foxmail.com
+email: fanghaook@mail.sdu.edu.cn fanghaook@foxmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,18 +12,18 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-github_link: https://github.com/fanghaook
 google_scholar: https://scholar.google.cz/citations?user=PA0RVvgAAAAJ
-orcid: https://orcid.org/0000-0002-8846-8294
-dblp: https://dblp.uni-trier.de/pid/256/8991.html
-semantic_scholar: https://www.semanticscholar.org/author/Hao-Fang/2268225243
-# cv_link: assets/files/curriculum_vitae.pdf
-# linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/fanghaook
+linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
+# orcid: https://orcid.org/0000-0002-8846-8294
+# dblp: https://dblp.uni-trier.de/pid/256/8991.html
+# semantic_scholar: https://www.semanticscholar.org/author/Hao-Fang/2268225243
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/photo.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
