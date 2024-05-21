@@ -18,5 +18,3 @@ I am a Ph.D. student at Shandong University, advised by Prof.[Xiankai Lu](https:
 - **[Nov. 2023]** Our paper about pronunciation assessment is accepted to TASLP.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
