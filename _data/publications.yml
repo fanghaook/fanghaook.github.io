@@ -1,5 +1,11 @@
 main:
-
+  - title: "3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation"
+    authors: Feiyu Pan*, <strong>Hao Fang*</strong>, Xiankai Lu
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR Workshop)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2406.04842
+    image: ./assets/img/MeViS.png
+    
   - title: "Learning Feature Semantic Matching for Spatio-Temporal Video Grounding"
     authors: Tong Zhang, <strong>Hao Fang</strong>, Hao Zhang, Jialin Gao, Xiankai Lu, Xiushan Nie, Yilong Yin
     conference_short: TMM
