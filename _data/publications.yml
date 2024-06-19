@@ -1,4 +1,11 @@
 main:
+  - title: "Structural Transformer with Region Strip Attention for video object segmentation"
+    authors: Qingfeng Guan, <strong>Hao Fang</strong>, Chenchen Han, Zhicheng Wang, Ruiheng Zhang, Yitian Zhang, Xiankai Lu
+    conference_short: Neurocomputing
+    conference: Neurocomputing, 2024.
+    pdf: https://doi.org/10.1016/j.neucom.2024.128076
+    image: ./assets/img/STRSA.jpg
+    
   - title: "3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation"
     authors: Feiyu Pan*, <strong>Hao Fang*</strong>, Xiankai Lu
     conference_short: CVPR
