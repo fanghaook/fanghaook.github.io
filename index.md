@@ -12,7 +12,7 @@ I am a Ph.D. student at Shandong University, advised by Prof.[Xiankai Lu](https:
 - **Video Segmentation:** Video Instance Segmentation, Referring Video Object Segmentation, Video Grounding
 
 ## News
-
+- **[Jun. 2024]** Our paper about video object segmentation is accepted to Neurocomputing.
 - **[Jun. 2024]** Our team achieved the 3rd place in the MeViS challenge of CVPR 2024.
 - **[Apr. 2024]** Our paper about video grounding is accepted to TMM.
 - **[Feb. 2024]** Our paper about video instance segmentation is accepted to TCSVT.
