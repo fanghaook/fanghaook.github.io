@@ -1,4 +1,11 @@
 main:
+  - title: "Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation"
+    authors: <strong>Hao Fang</strong>, Peng Wu, Yawei Li, Xinxin Zhang, Xiankai Lu
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    code: https://github.com/fanghaook/OVFormer
+    image: ./assets/img/OVFormer.png
+    
   - title: "Structural Transformer with Region Strip Attention for video object segmentation"
     authors: Qingfeng Guan, <strong>Hao Fang</strong>, Chenchen Han, Zhicheng Wang, Ruiheng Zhang, Yitian Zhang, Xiankai Lu
     conference_short: Neurocomputing
