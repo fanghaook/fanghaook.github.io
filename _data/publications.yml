@@ -3,6 +3,7 @@ main:
     authors: <strong>Hao Fang</strong>, Peng Wu, Yawei Li, Xinxin Zhang, Xiankai Lu
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2407.07427
     code: https://github.com/fanghaook/OVFormer
     image: ./assets/img/OVFormer.png
     
