@@ -1,4 +1,18 @@
 main:
+  - title: "UNINEXT-Cutie: The 1st Solution for LSVOS Challenge RVOS Track"
+    authors: <strong>Hao Fang*</strong>, Feiyu Pan, Xiankai Lu, Wei Zhang, Runmin Cong
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV Challenge)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2408.10129
+    image: ./assets/img/UNINEXT-Cutie.png
+    
+  - title: "Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track"
+    authors: Feiyu Pan, <strong>Hao Fang*</strong>, Runmin Cong, Wei Zhang, Xiankai Lu
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV Challenge)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2408.10125
+    image: ./assets/img/SAM2.png
+    
   - title: "Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation"
     authors: <strong>Hao Fang</strong>, Peng Wu, Yawei Li, Xinxin Zhang, Xiankai Lu
     conference_short: ECCV
@@ -17,7 +31,7 @@ main:
   - title: "3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation"
     authors: Feiyu Pan*, <strong>Hao Fang*</strong>, Xiankai Lu
     conference_short: CVPR
-    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR Workshop)</strong>, 2024.
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR Challenge)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.04842
     image: ./assets/img/MeViS.png
     
