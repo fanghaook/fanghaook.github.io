@@ -1,13 +1,13 @@
 main:
   - title: "UNINEXT-Cutie: The 1st Solution for LSVOS Challenge RVOS Track"
-    authors: <strong>Hao Fang*</strong>, Feiyu Pan, Xiankai Lu, Wei Zhang, Runmin Cong
+    authors: <strong>Hao Fang</strong>, Feiyu Pan, Xiankai Lu, Wei Zhang, Runmin Cong
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV Challenge)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.10129
     image: ./assets/img/UNINEXT-Cutie.png
     
   - title: "Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track"
-    authors: Feiyu Pan, <strong>Hao Fang*</strong>, Runmin Cong, Wei Zhang, Xiankai Lu
+    authors: Feiyu Pan, <strong>Hao Fang</strong>, Runmin Cong, Wei Zhang, Xiankai Lu
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV Challenge)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.10125
