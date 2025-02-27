@@ -10,8 +10,10 @@ I am a Ph.D. student at Shandong University, advised by Prof.[Xiankai Lu](https:
 
 - **Image Segmentation:** Salient Object Detection
 - **Video Segmentation:** Video Instance Segmentation, Referring Video Object Segmentation
+- **AI Safety:** Backdoor Attacks
 
 ## News
+- **[Feb. 2025]** Our two papers about referring video object segmentation is accepted to CVPR 2025.
 - **[Aug. 2024]** Our team achieved the 1st place in the 6th LSVOS ChaLenge RVOS Track.
 - **[Aug. 2024]** Our team achieved the 4th place in the 6th LSVOS ChaLenge VOS Track.
 - **[Jul. 2024]** Our paper about video instance segmentation is accepted to ECCV 2024.
