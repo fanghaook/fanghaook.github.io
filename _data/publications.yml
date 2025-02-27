@@ -1,4 +1,16 @@
 main:
+  - title: "Decoupled Motion Expression Video Segmentation"
+    authors: <strong>Hao Fang</strong>, Runmin Cong, Xiankai Lu, Xiaofei Zhou, Sam Kwong, Wei Zhang
+    conference_short: CVPR
+    conference:Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    image: ./assets/img/DMVS.png
+    
+  - title: "Semantic and Sequential Alignment for Referring Video Object Segmentation"
+    authors: Feiyu Pan, <strong>Hao Fang</strong>, Fangkai Li, Yanyu Xu, Yawei Li, Luca Benini, Xiankai Lu
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    image: ./assets/img/SSA.png
+    
   - title: "UNINEXT-Cutie: The 1st Solution for LSVOS Challenge RVOS Track"
     authors: <strong>Hao Fang</strong>, Feiyu Pan, Xiankai Lu, Wei Zhang, Runmin Cong
     conference_short: ECCV
