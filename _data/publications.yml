@@ -1,4 +1,11 @@
 main:    
+  - title: "The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of  Large Multimodal Models for Referring Video Segmentation"
+    authors: <strong>Hao Fang</strong>, Runmin Cong, Xiankai Lu, Zhiyang Chen, Wei Zhang
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR Challenge)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2504.05178
+    image: ./assets/img/Sa2VA.png
+    
   - title: "Decoupled Motion Expression Video Segmentation"
     authors: <strong>Hao Fang</strong>, Runmin Cong, Xiankai Lu, Xiaofei Zhou, Sam Kwong, Wei Zhang
     conference_short: CVPR
