@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Shandong University, advised by Prof.[Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm) and Prof.[Runmin Cong](https://rmcong.github.io/).
+I am a Ph.D. student at School of Control Science and Engineering, Shandong University, advised by Prof.[Runmin Cong](https://rmcong.github.io/). I once pursued a M.S. degree at School of Software, Shandong University, advised by Prof.[Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm). I received my B.S. degree from Hangzhou Dianzi University, advised by Prof.[Xiaofei Zhou](https://zxforchid.github.io/index.html)
 
 ## Research Interests
 
-- **Image Segmentation:** Salient Object Detection
+- **Image Segmentation:** Salient Object Detection, Underwater Instance Segmentation
 - **Video Segmentation:** Video Instance Segmentation, Referring Video Object Segmentation
-- **AI Safety:** Backdoor Attacks
+- **AI Safety:** Backdoor Attacks, Adversarial Attacks
 
 ## News
 - **[Mar. 2025]** Our team achieved the 3rd prize in SIRR Challenge at CVPR 2025.
@@ -33,3 +33,20 @@ I am a Ph.D. student at Shandong University, advised by Prof.[Xiankai Lu](https:
 - the 1st place in the 6th LSVOS ChaLenge RVOS Track at ECCV 2024
 - the 4th place in the 6th LSVOS ChaLenge VOS Track at ECCV 2024
 - the 3rd Place in the 3rd PVUW challenge RVOS Track at CVPR 2025.
+
+## Services
+
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://acmmm2025.org/"><autocolor>ACM International Conference on Multimedia (MM) 2025</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern recognition (PR)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing (NC)</autocolor></a></li>
+  <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/24682322"><autocolor>CAAI Transactions on Intelligence Technology (CIT)</autocolor></a></li>
+</ul>
