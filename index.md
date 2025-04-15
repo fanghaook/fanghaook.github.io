@@ -33,7 +33,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
   <li><a href="https://cvlai.net/ntire/2025/"><autocolor>the 3rd prize in the Single Image Reflection Removal (SIRR) in the Wild: An NTIRE Challenge in Conjunction with CVPR 2025</autocolor></a></li>
   <li><a href="https://lsvos.github.io/"><autocolor>the 4th place in the 6th LSVOS ChaLenge VOS Track at ECCV 2024</autocolor></a></li>
   <li><a href="https://lsvos.github.io/"><autocolor>the 1st place in the 6th LSVOS ChaLenge RVOS Track at ECCV 2024</autocolor></a></li>
-  <li><a href="https://www.vspwdataset.com/Workshop2024"><autocolor>the 3rd Place in the 3rd PVUW challenge RVOS Track at CVPR 2025</autocolor></a></li>
+  <li><a href="https://www.vspwdataset.com/Workshop2024"><autocolor>the 3rd Place in the 3rd PVUW challenge RVOS Track at CVPR 2024</autocolor></a></li>
 </ul>
 
 ## Services
