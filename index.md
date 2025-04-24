@@ -49,6 +49,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern recognition (PR)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing (NC)</autocolor></a></li>
   <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/24682322"><autocolor>CAAI Transactions on Intelligence Technology (CIT)</autocolor></a></li>
 </ul>
