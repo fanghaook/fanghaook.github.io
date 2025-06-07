@@ -1,8 +1,8 @@
 main:    
   - title: "The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of  Large Multimodal Models for Referring Video Segmentation"
     authors: <strong>Hao Fang</strong>, Runmin Cong, Xiankai Lu, Zhiyang Chen, Wei Zhang
-    conference_short: CVPR
-    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR Challenge)</strong>, 2025.
+    conference_short: CVPRW
+    conference: Conference on Computer Vision and Pattern Recognition Workshop <strong>(CVPRW)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2504.05178
     image: ./assets/img/Sa2VA.png
     
@@ -10,25 +10,28 @@ main:
     authors: <strong>Hao Fang</strong>, Runmin Cong, Xiankai Lu, Xiaofei Zhou, Sam Kwong, Wei Zhang
     conference_short: CVPR
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Decoupled_Motion_Expression_Video_Segmentation_CVPR_2025_paper.pdf
     image: ./assets/img/DMVS.png
     
   - title: "Semantic and Sequential Alignment for Referring Video Object Segmentation"
     authors: Feiyu Pan, <strong>Hao Fang</strong>, Fangkai Li, Yanyu Xu, Yawei Li, Luca Benini, Xiankai Lu
     conference_short: CVPR
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Pan_Semantic_and_Sequential_Alignment_for_Referring_Video_Object_Segmentation_CVPR_2025_paper.pdf
+    code: https://github.com/tavarich/SSA
     image: ./assets/img/SSA.png
     
   - title: "UNINEXT-Cutie: The 1st Solution for LSVOS Challenge RVOS Track"
     authors: <strong>Hao Fang</strong>, Feiyu Pan, Xiankai Lu, Wei Zhang, Runmin Cong
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV Challenge)</strong>, 2024.
+    conference_short: ECCVW
+    conference: European Conference on Computer Vision Workshop <strong>(ECCVW)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.10129
     image: ./assets/img/UNINEXT-Cutie.png
     
   - title: "Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track"
     authors: Feiyu Pan, <strong>Hao Fang</strong>, Runmin Cong, Wei Zhang, Xiankai Lu
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV Challenge)</strong>, 2024.
+    conference_short: ECCVW
+    conference: European Conference on Computer Vision Workshop <strong>(ECCVW)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.10125
     image: ./assets/img/SAM2.png
     
@@ -49,8 +52,8 @@ main:
     
   - title: "3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation"
     authors: Feiyu Pan*, <strong>Hao Fang*</strong>, Xiankai Lu
-    conference_short: CVPR
-    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR Challenge)</strong>, 2024.
+    conference_short: CVPRW
+    conference: IEEE Conference on Computer Vision and Pattern Recognition Workshop <strong>(CVPRW)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.04842
     image: ./assets/img/MeViS.png
     
