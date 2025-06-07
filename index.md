@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at School of Control Science and Engineering, Shandong University, advised by Prof.[Runmin Cong](https://rmcong.github.io/). I once pursued a M.S. degree at School of Software, Shandong University, advised by Prof.[Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm). I received my B.S. degree from Hangzhou Dianzi University, advised by Prof.[Xiaofei Zhou](https://zxforchid.github.io/index.html)
+I am a Ph.D. student at School of Control Science and Engineering, Shandong University, advised by Prof.[Runmin Cong](https://rmcong.github.io/). I once pursued a M.S. degree at School of Software, Shandong University, advised by Prof.[Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm). I received my B.S. degree from Hangzhou Dianzi University, advised by Prof.[Xiaofei Zhou](https://zxforchid.github.io/index.html).
 
 ## Research Interests
 
