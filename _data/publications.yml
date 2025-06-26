@@ -1,4 +1,10 @@
 main:    
+  - title: "A Conditional Probability Framework for Compositional Zero-shot Learning"
+    authors: Peng Wu, Qiuxia Lai, <strong>Hao Fang</strong>, Guo-Sen Xie, Yilong Yin, Xiankai Lu, Wenguan Wang
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    image: ./assets/img/CPF.png
+    
   - title: "The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of  Large Multimodal Models for Referring Video Segmentation"
     authors: <strong>Hao Fang</strong>, Runmin Cong, Xiankai Lu, Zhiyang Chen, Wei Zhang
     conference_short: CVPRW
