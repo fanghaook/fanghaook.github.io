@@ -43,6 +43,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://acmmm2025.org/"><autocolor>ACM International Conference on Multimedia (MM) 2025</autocolor></a></li>
+  <li><a href="https://iccv.thecvf.com/"><autocolor>International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
