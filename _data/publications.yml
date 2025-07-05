@@ -1,4 +1,10 @@
 main:    
+  - title: "UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via Dynamic Tree Scan and Hidden State Weaken"
+    authors: Runmin Cong, Zongji Yu, <strong>Hao Fang*</strong>, Haoyan Sun, Sam Kwong (* corresponding author)
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
+    image: ./assets/img/UIS-Mamba.png
+    
   - title: "A Conditional Probability Framework for Compositional Zero-shot Learning"
     authors: Peng Wu, Qiuxia Lai, <strong>Hao Fang</strong>, Guo-Sen Xie, Yilong Yin, Xiankai Lu, Wenguan Wang
     conference_short: ICCV
