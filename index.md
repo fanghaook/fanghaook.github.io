@@ -13,7 +13,8 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 - **AI Safety:** Backdoor Attacks, Adversarial Attacks
 
 ## News
-- **[Jun. 2025]** Our paper about Zero-shot Learning is accepted to ICCV 2025.
+- **[Jul. 2025]** Our paper about underwater instance segmentation is accepted to ACM MM 2025.
+- **[Jun. 2025]** Our paper about zero-shot learning is accepted to ICCV 2025.
 - **[Mar. 2025]** Our team achieved the 3rd prize in SIRR Challenge at CVPR 2025.
 - **[Mar. 2025]** Our team achieved the 1st place in PVUW challenge RVOS Track at CVPR 2025.
 - **[Feb. 2025]** Two papers about referring video object segmentation are accepted to CVPR 2025.
