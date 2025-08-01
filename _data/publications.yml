@@ -3,12 +3,15 @@ main:
     authors: Runmin Cong, Zongji Yu, <strong>Hao Fang*</strong>, Haoyan Sun, Sam Kwong (* corresponding author)
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
+    code: https://github.com/Maricalce/UIS-Mamba
     image: ./assets/img/UIS-Mamba.png
     
   - title: "A Conditional Probability Framework for Compositional Zero-shot Learning"
     authors: Peng Wu, Qiuxia Lai, <strong>Hao Fang</strong>, Guo-Sen Xie, Yilong Yin, Xiankai Lu, Wenguan Wang
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2507.17377
+    code: https://github.com/Pieux0/CPF
     image: ./assets/img/CPF.png
     
   - title: "The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of  Large Multimodal Models for Referring Video Segmentation"
