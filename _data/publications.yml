@@ -3,6 +3,7 @@ main:
     authors: Runmin Cong, Zongji Yu, <strong>Hao Fang*</strong>, Haoyan Sun, Sam Kwong (* corresponding author)
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2508.00421
     code: https://github.com/Maricalce/UIS-Mamba
     image: ./assets/img/UIS-Mamba.png
     
