@@ -43,6 +43,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2025</autocolor></a></li>
   <li><a href="https://acmmm2025.org/"><autocolor>ACM International Conference on Multimedia (MM) 2025</autocolor></a></li>
   <li><a href="https://iccv.thecvf.com/"><autocolor>International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
 </ul>
@@ -55,4 +56,5 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing (NC)</autocolor></a></li>
   <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/24682322"><autocolor>CAAI Transactions on Intelligence Technology (CIT)</autocolor></a></li>
+  <li><a href="https://ieeeoes.org/publication/ieee-joe><autocolor>IEEE Journal of Oceanic Engineering (JOE)</autocolor></a></li>
 </ul>
