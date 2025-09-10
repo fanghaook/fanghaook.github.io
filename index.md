@@ -56,5 +56,5 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing (NC)</autocolor></a></li>
   <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/24682322"><autocolor>CAAI Transactions on Intelligence Technology (CIT)</autocolor></a></li>
-  <li><a href="https://ieeeoes.org/publication/ieee-joe><autocolor>IEEE Journal of Oceanic Engineering (JOE)</autocolor></a></li>
+  <li><a href="https://ieeeoes.org/publication/ieee-joe"><autocolor>IEEE Journal of Oceanic Engineering (JOE)</autocolor></a></li>
 </ul>
