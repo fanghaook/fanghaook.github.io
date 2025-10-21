@@ -8,11 +8,12 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 
 ## Research Interests
 
-- **Image Segmentation:** Salient Object Detection, Underwater Instance Segmentation
+- **AI Safety:** Image and Video Segmentation, Multimodal LLMs, Embodied AI
 - **Video Segmentation:** Video Instance Segmentation, Referring Video Object Segmentation
-- **AI Safety:** Backdoor Attacks, Adversarial Attacks
+- **Image Segmentation:** Salient Object Detection, Underwater Instance Segmentation
 
 ## News
+- **[Oct. 2025]** Our paper about optical remote sensing detection is accepted to TGRS.
 - **[Jul. 2025]** Our paper about underwater instance segmentation is accepted to ACM MM 2025.
 - **[Jun. 2025]** Our paper about zero-shot learning is accepted to ICCV 2025.
 - **[Mar. 2025]** Our team achieved the 3rd prize in SIRR Challenge at CVPR 2025.
