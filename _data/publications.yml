@@ -1,4 +1,11 @@
 main:    
+  - title: "RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images"
+    authors: Bin Wan, Runmin Cong, Xiaofei Zhou, <strong>Hao Fang</strong>, Yaoqi Sun, and Sam Kwong
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/11208683
+    image: ./assets/img/RDNet.png
+    
   - title: "UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via Dynamic Tree Scan and Hidden State Weaken"
     authors: Runmin Cong, Zongji Yu, <strong>Hao Fang*</strong>, Haoyan Sun, Sam Kwong (* corresponding author)
     conference_short: ACM MM
