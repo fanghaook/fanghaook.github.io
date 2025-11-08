@@ -10,9 +10,10 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 
 - **AI Safety:** Image and Video Segmentation, Multimodal LLMs, Embodied AI
 - **Video Segmentation:** Video Instance Segmentation, Referring Video Object Segmentation
-- **Image Segmentation:** Salient Object Detection, Underwater Instance Segmentation
+- **Image Segmentation:** Salient Object Detection, Underwater image Segmentation
 
 ## News
+- **[Nov. 2025]** Our paper about underwater instance segmentation is accepted to AAAI 2026.
 - **[Oct. 2025]** Our paper about optical remote sensing detection is accepted to TGRS.
 - **[Jul. 2025]** Our paper about underwater instance segmentation is accepted to ACM MM 2025.
 - **[Jun. 2025]** Our paper about zero-shot learning is accepted to ICCV 2025.
@@ -44,7 +45,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2025</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2026</autocolor></a></li>
   <li><a href="https://acmmm2025.org/"><autocolor>ACM International Conference on Multimedia (MM) 2025</autocolor></a></li>
   <li><a href="https://iccv.thecvf.com/"><autocolor>International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
 </ul>
@@ -55,7 +56,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern recognition (PR)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing (NC)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>
   <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/24682322"><autocolor>CAAI Transactions on Intelligence Technology (CIT)</autocolor></a></li>
   <li><a href="https://ieeeoes.org/publication/ieee-joe"><autocolor>IEEE Journal of Oceanic Engineering (JOE)</autocolor></a></li>
 </ul>
