@@ -1,4 +1,10 @@
 main:    
+  - title: "Empowering DINO Representations for Underwater Instance Segmentation via Aligner and Prompter"
+    authors: Zhiyang Chen, Chen Zhang, <strong>Hao Fang</strong>, Runmin Cong
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligenc <strong>(AAAI)</strong>, 2026.
+    image: ./assets/img/DiveSeg.png
+    
   - title: "RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images"
     authors: Bin Wan, Runmin Cong, Xiaofei Zhou, <strong>Hao Fang</strong>, Yaoqi Sun, and Sam Kwong
     conference_short: TGRS
