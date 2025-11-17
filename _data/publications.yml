@@ -3,6 +3,8 @@ main:
     authors: Zhiyang Chen, Chen Zhang, <strong>Hao Fang</strong>, Runmin Cong
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligenc <strong>(AAAI)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2511.08334
+    code: https://github.com/ettof/Diveseg
     image: ./assets/img/DiveSeg.png
     
   - title: "RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images"
