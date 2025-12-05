@@ -13,6 +13,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 - **Image Segmentation:** Salient Object Detection, Underwater image Segmentation
 
 ## News
+- **[Dec. 2025]** Our paper about condition-constrained perception is accepted to TPAMI.
 - **[Nov. 2025]** Our paper about underwater instance segmentation is accepted to AAAI 2026.
 - **[Oct. 2025]** Our paper about optical remote sensing detection is accepted to TGRS.
 - **[Jul. 2025]** Our paper about underwater instance segmentation is accepted to ACM MM 2025.
