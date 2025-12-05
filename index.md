@@ -8,9 +8,9 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 
 ## Research Interests
 
+- **Open-Scene Video Segmentation:** Video Instance Segmentation, Referring Video Object Segmentation
+- **Condition-Constrained Visual Perception:** Salient Object Detection, Underwater image Segmentation
 - **AI Safety:** Image and Video Segmentation, Multimodal LLMs, Embodied AI
-- **Video Segmentation:** Video Instance Segmentation, Referring Video Object Segmentation
-- **Image Segmentation:** Salient Object Detection, Underwater image Segmentation
 
 ## News
 - **[Dec. 2025]** Our paper about condition-constrained perception is accepted to TPAMI.
