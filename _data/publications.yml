@@ -3,6 +3,7 @@ main:
     authors: Runmin Cong, Zhiyang Chen, <strong>Hao Fang*</strong>, Sam Kwong, and Wei Zhang (* corresponding author)
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11297835
     code: https://github.com/ettof/CSOD
     image: ./assets/img/CSOD.png
     
