@@ -13,6 +13,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 - **AI Safety:** Image and Video Segmentation, Multimodal LLMs, Embodied AI
 
 ## News
+- **[Jan. 2026]** Our paper about optical remote sensing detection is accepted to TCSVT.
 - **[Dec. 2025]** Our paper about condition-constrained perception is accepted to TPAMI.
 - **[Nov. 2025]** Our paper about underwater instance segmentation is accepted to AAAI 2026.
 - **[Oct. 2025]** Our paper about optical remote sensing detection is accepted to TGRS.
@@ -46,6 +47,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://icml.cc/Conferences/2026"><autocolor>International Conference on Machine Learning (ICML) 2026</autocolor></a></li>
   <li><a href="https://cvpr.thecvf.com/Conferences/2025"><autocolor>Computer Vision and Pattern Recognition Conference (CVPR) 2026</autocolor></a></li>
   <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2026</autocolor></a></li>
   <li><a href="https://acmmm2025.org/"><autocolor>ACM International Conference on Multimedia (MM) 2025</autocolor></a></li>
