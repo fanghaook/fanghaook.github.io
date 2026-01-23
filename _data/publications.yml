@@ -1,4 +1,11 @@
-main:    
+main:
+  - title: "G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images"
+    authors: Bin Wan, Runmin Cong, Xiaofei Zhou, <strong>Hao Fang</strong>, Chengtao Lv, and Sam Kwong
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11346472
+    image: ./assets/img/G2HFNet.png
+    
   - title: "Breaking Barriers, Localizing Saliency: A Large-scale Benchmark and Baseline for Condition-Constrained Salient Object Detection"
     authors: Runmin Cong, Zhiyang Chen, <strong>Hao Fang*</strong>, Sam Kwong, and Wei Zhang (* corresponding author)
     conference_short: TPAMI
