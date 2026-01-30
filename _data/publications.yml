@@ -1,4 +1,12 @@
 main:
+  - title: "TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning"
+    authors: Mingzu Liu*, <strong>Hao Fang*</strong>, Runmin Cong (* Equal contribution)
+    conference_short: Arxiv
+    conference: Arxiv, 2026.
+    pdf: https://arxiv.org/pdf/2601.21692
+    code: https://github.com/m1ng2u/TCAP
+    image: ./assets/img/TCAP.png
+    
   - title: "G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images"
     authors: Bin Wan, Runmin Cong, Xiaofei Zhou, <strong>Hao Fang</strong>, Chengtao Lv, and Sam Kwong
     conference_short: TCSVT
