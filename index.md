@@ -13,6 +13,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 - **AI Safety:** Image and Video Segmentation, Multimodal LLMs, Embodied AI
 
 ## News
+- **[Mar. 2026]** Our paper about RGB-T salient object detection is accepted to TCSVT.
 - **[Jan. 2026]** Our paper about optical remote sensing detection is accepted to TCSVT.
 - **[Dec. 2025]** Our paper about condition-constrained perception is accepted to TPAMI.
 - **[Nov. 2025]** Our paper about underwater instance segmentation is accepted to AAAI 2026.
