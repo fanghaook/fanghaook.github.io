@@ -48,7 +48,6 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://neurips.cc/Conferences/2026"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2026</autocolor></a></li>
   <li><a href="https://2026.acmmm.org/"><autocolor>ACM International Conference on Multimedia (ACM MM) 2026</autocolor></a></li>
   <li><a href="https://eccv.ecva.net"><autocolor>European Conference on Computer Vision (ECCV) 2026</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2026"><autocolor>International Conference on Machine Learning (ICML) 2026</autocolor></a></li>
