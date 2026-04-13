@@ -7,6 +7,13 @@ main:
     code: https://github.com/m1ng2u/TCAP
     image: ./assets/img/TCAP.png
 
+  - title: "OVFormer+: Improved Open-Vocabulary Video Instance Segmentation via Text-Guided Unified Embedding Alignment"
+    authors: <strong>Hao Fang*</strong>, Xiankai Lu, Henghui Ding, Yunchao Wei, Yawei Li, Runmin Cong
+    conference_short: IJCV
+    conference: International Journal of Computer Vision‌ <strong>(IJCV)</strong>, 2026.
+    code: https://github.com/fanghaook/OVFormer
+    image: ./assets/img/OVFormer+.png
+    
   - title: "Breaking Barriers, Localizing Saliency: A Large-scale Benchmark and Baseline for Condition-Constrained Salient Object Detection"
     authors: Runmin Cong, Zhiyang Chen, <strong>Hao Fang*</strong>, Sam Kwong, and Wei Zhang (* corresponding author)
     conference_short: TPAMI
