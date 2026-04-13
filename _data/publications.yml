@@ -8,7 +8,7 @@ main:
     image: ./assets/img/TCAP.png
 
   - title: "OVFormer+: Improved Open-Vocabulary Video Instance Segmentation via Text-Guided Unified Embedding Alignment"
-    authors: <strong>Hao Fang*</strong>, Xiankai Lu, Henghui Ding, Yunchao Wei, Yawei Li, Runmin Cong
+    authors: <strong>Hao Fang</strong>, Xiankai Lu, Henghui Ding, Yunchao Wei, Yawei Li, Runmin Cong
     conference_short: IJCV
     conference: International Journal of Computer Vision‌ <strong>(IJCV)</strong>, 2026.
     code: https://github.com/fanghaook/OVFormer
