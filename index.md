@@ -13,6 +13,7 @@ I am a Ph.D. student at School of Control Science and Engineering, Shandong Univ
 - **AI Safety:** Image and Video Segmentation, Multimodal LLMs, Embodied AI
 
 ## News
+- **[May. 2026]** Our paper about backdoor attack of MLLMs is accepted to ICML 2026.
 - **[Apr. 2026]** Our paper about video instance segmentation is accepted to IJCV.
 - **[Mar. 2026]** Our paper about RGB-T salient object detection is accepted to TCSVT.
 - **[Jan. 2026]** Our paper about optical remote sensing detection is accepted to TCSVT.
