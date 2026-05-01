@@ -1,8 +1,8 @@
 main:
   - title: "TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning"
     authors: Mingzu Liu*, <strong>Hao Fang*</strong>, Runmin Cong (* Equal contribution)
-    conference_short: Arxiv
-    conference: Arxiv, 2026.
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2601.21692
     code: https://github.com/m1ng2u/TCAP
     image: ./assets/img/TCAP.png
