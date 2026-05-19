@@ -11,6 +11,7 @@ main:
     authors: <strong>Hao Fang</strong>, Xiankai Lu, Henghui Ding, Yunchao Wei, Yawei Li, Runmin Cong
     conference_short: IJCV
     conference: International Journal of Computer Vision‌ <strong>(IJCV)</strong>, 2026.
+    pdf: https://link.springer.com/article/10.1007/s11263-026-02853-9
     code: https://github.com/fanghaook/OVFormer
     image: ./assets/img/OVFormer+.png
     
