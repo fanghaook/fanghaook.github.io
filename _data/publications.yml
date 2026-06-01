@@ -31,7 +31,7 @@ main:
     code: https://github.com/ettof/CSOD
     image: ./assets/img/CSOD.png
 
-    - title: "Underwater Image Segmentation Methods： A Survey"
+  - title: "Underwater Image Segmentation Methods： A Survey"
     authors: Hao Fang, Zongji Yu, Zhiyang Chen, Runmin Cong
     conference_short: JIG
     conference: Journal of Image and Graphics <strong>(JIG)</strong>, 2026.
