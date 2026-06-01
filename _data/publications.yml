@@ -1,4 +1,12 @@
 main:
+  - title: "Harmony in Diversity: Multi-domain Contrastive Policy Optimization for Large Reasoning Models"
+    authors: Zongji Yu, Wenshui Luo, Yiliu Sun, <strong>Hao Fang</strong>, Runmin Cong, Chaochao Lu, Chen Gong
+    conference_short: Arxiv
+    conference: Arxiv, 2026.
+    pdf: https://arxiv.org/pdf/2605.25443
+    code: https://github.com/Maricalce/MCPO
+    image: ./assets/img/MCPO.png
+    
   - title: "TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning"
     authors: Mingzu Liu*, <strong>Hao Fang*</strong>, Runmin Cong (* Equal contribution)
     conference_short: ICML
@@ -22,6 +30,13 @@ main:
     pdf: https://ieeexplore.ieee.org/document/11297835
     code: https://github.com/ettof/CSOD
     image: ./assets/img/CSOD.png
+
+    - title: "Underwater Image Segmentation Methods： A Survey"
+    authors: Hao Fang, Zongji Yu, Zhiyang Chen, Runmin Cong
+    conference_short: JIG
+    conference: Journal of Image and Graphics <strong>(JIG)</strong>, 2026.
+    pdf: https://cjig.cn/zh/article/doi/10.11834/jig.250481
+    image: ./assets/img/survey.png
     
   - title: "RSONet: Region-guided Selective Optimization Network for RGB-T Salient Object Detection"
     authors: Bin Wan, Runmin Cong, Xiaofei Zhou, <strong>Hao Fang</strong>, Chengtao Lv, and Sam Kwong
